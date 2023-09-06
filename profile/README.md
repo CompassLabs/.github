@@ -1,10 +1,8 @@
-## Welcome to CompassLabs 👋
+# Welcome to CompassLabs 🧭
 
-**Automated Decision-Making for Decentralized Systems**
+We are a group of engineers and scientists investigating ways to optimize decision-making in DeFi.
 
-Compass Labs leverages the open-source nature of the blockchain to build extremely realistic simulation environments for DeFi.  
-We train autonomous agents to optimize and automate user interaction, and discover opportunities at scale.
+## dojo
+We just released our first product, [dojo](https://dojo.compasslabs.ai) 🎉🎉
 
-___
-We just released the first version of [dojo](https://dojo.compasslabs.ai), our Python simulation environment.
-Take a look! :)
+This Python package allows you to easily spin up true-to-life DeFi simulations, executing smart contract logic with novel market impact models!!
